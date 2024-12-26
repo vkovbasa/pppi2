@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.example.canteen.controller"},{"l":"org.example.canteen.model"}];updateSearchResults();

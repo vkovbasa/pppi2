@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example.canteen.model","l":"Dish"},{"p":"org.example.canteen.model","l":"Order"},{"p":"org.example.canteen.controller","l":"OrderController"},{"p":"org.example.canteen.model","l":"OrderItem"}];updateSearchResults();
